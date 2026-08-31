@@ -33,7 +33,7 @@
 
 ---
 
-## Langages
+## Languages
 * English
 * Español
 * Português
