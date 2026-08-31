@@ -1,7 +1,14 @@
+<img width="1134" height="1118" alt="1000032261" src="https://github.com/user-attachments/assets/383a2d28-4b3e-4973-b098-9078d7b799d5" />
+
+---
+
 # 3DS-EB
 3DS-EB is a complete ground-up C# re-engineering of Asia81's HackingToolkit9DS, built to deliver maximum speed, a clean interface, and seamless 3DS ROM extraction/rebuilding without the performance bottlenecks of the original toolchain.
 
 `3DS-EB` completely re-architects the original toolchain, replacing slow legacy scripts with a optimized **C# / .NET** engine. It delivers significantly faster extraction and rebuilding speeds, a cleaner UI, and an enhanced workflow for Nintendo 3DS ROM hacking, binary extraction, and localization.
+
+<img width="1204" height="619" alt="1000032263" src="https://github.com/user-attachments/assets/45c03925-b885-49e4-928c-92e6400aa700" />
+
 
 ---
 
@@ -20,6 +27,25 @@
 * **RomFS & ExeFS Extraction:** Rapid access to game resources, dialog files, textures, and executable code.
 * **Header & Banner Editing:** Integrated tools for modifying 3DS system banners and metadata.
 * **Enhanced Error Handling:** Smart logging and automated checks to prevent corrupt builds during repacking.
+
+<img width="849" height="515" alt="1000032264" src="https://github.com/user-attachments/assets/a1e7f877-2d20-4364-b6a1-5e5ac1153428" />
+
+
+---
+
+## Langages
+* English
+* Español
+* Português
+* 简体中文
+* 日本語
+* 한국어
+* Deutsch
+* Français
+* Italiano
+
+<img width="331" height="495" alt="1000032262" src="https://github.com/user-attachments/assets/ff148f4b-2560-4f64-80bc-aeb400dacbff" />
+
 
 ---
 
