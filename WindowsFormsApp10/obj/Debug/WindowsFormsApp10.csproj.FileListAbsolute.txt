@@ -1,0 +1,13 @@
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form2.resources
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form3.resources
+C:\Users\Aluno\Documents\Treino\Here\Windows\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe.config
