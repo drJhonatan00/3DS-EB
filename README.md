@@ -7,7 +7,7 @@
 
 `3DS-EB` completely re-architects the original toolchain, replacing slow legacy scripts with a optimized **C# / .NET** engine. It delivers significantly faster extraction and rebuilding speeds, a cleaner UI, and an enhanced workflow for Nintendo 3DS ROM hacking, binary extraction, and localization.
 
-<img width="1204" height="619" alt="1000032263" src="https://github.com/user-attachments/assets/45c03925-b885-49e4-928c-92e6400aa700" />
+<img width="1398" height="812" alt="1000046504" src="https://github.com/user-attachments/assets/73edca4c-9280-4816-af4e-499fc10cd609" />
 
 
 ---
@@ -28,7 +28,7 @@
 * **Header & Banner Editing:** Integrated tools for modifying 3DS system banners and metadata.
 * **Enhanced Error Handling:** Smart logging and automated checks to prevent corrupt builds during repacking.
 
-<img width="849" height="515" alt="1000032264" src="https://github.com/user-attachments/assets/a1e7f877-2d20-4364-b6a1-5e5ac1153428" />
+<img width="1037" height="669" alt="1000046505" src="https://github.com/user-attachments/assets/a0a6aafe-87e7-41b7-bcd5-515acd285645" />
 
 
 ---
@@ -44,7 +44,8 @@
 * Français
 * Italiano
 
-<img width="331" height="495" alt="1000032262" src="https://github.com/user-attachments/assets/ff148f4b-2560-4f64-80bc-aeb400dacbff" />
+<img width="397" height="601" alt="1000046506" src="https://github.com/user-attachments/assets/ae79f375-1a31-4c82-826e-3b6082dbedf9" />
+
 
 
 ---
